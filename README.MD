@@ -1,6 +1,6 @@
 # 🙂 **MX-2.0** 🥺
 
-###### NEW VERSION IS NOW OUT OBB1 && UPLOADED ON DECEMBER 7 2024
+###### NEW VERSION IS NOW OUT OBB1 && UPLOADED ON JANUARY 7 2024
 
 #### NEXT UPDATE ON JANUARY 12 2025
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
