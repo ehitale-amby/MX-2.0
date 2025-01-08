@@ -110,7 +110,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 
 handler.help = ['main'];
 handler.tags = ['group'];
-handler.command = ['gamecoder', 'help2', 'h', 'commands2'];
+handler.command = ['game', 'help2', 'h', 'commands2'];
 
 export default handler;
 
