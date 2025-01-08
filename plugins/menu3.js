@@ -21,8 +21,8 @@ let handler = async function (m, { conn, text, usedPrefix }) {
   await conn.sendFile(m.chat, pp, 'menu.jpg', m2, m);
 }
 
-handler.help = ['game'];
+handler.help = ['gamecoder'];
 handler.tags = ['main'];
-handler.command = ['game', 'audios'];
+handler.command = ['gamecoder', 'audios'];
 
 export default handler;
