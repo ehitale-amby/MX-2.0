@@ -170,13 +170,6 @@ npm install && npm start
 
 <br>
 
-## Credits
-
-| [![Guru322](https://github.com/Guru322.png?size=100)](https://github.com/Guru322) | [![Lehani123](https://github.com/Lehani123.png?size=100)](https://github.com/Lehani123) | [![WhiskeySockets](https://github.com/WhiskeySockets.png?size=100)](https://github.com/WhiskeySockets) |
-| --- | --- | --- |
-| [Guru322](https://github.com/Guru322) | [Lehani123](https://github.com/Lehani123) | [WhiskeySockets](https://github.com/WhiskeySockets) |
-
-<br>
 
 - *`MX-2.0` is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
