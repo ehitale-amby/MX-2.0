@@ -71,9 +71,9 @@ let str = `
 ◈┃• aimenu
 ◈┃• aeditor
 ◈┃• imagen
-◈┃• menu
+◈┃• mx
 ◈┃• menu3
-◈┃• menu4
+◈┃• mxgamecoder
 ◈┃• fancy
 ◈┗━♪♪━★━☆━⦿
 
