@@ -1,8 +1,8 @@
 # 🙂 **MX-2.0** 🥺
 
-###### NEW VERSION IS NOW OUT OBB1 && UPLOADED ON JANUARY 7 2024
+###### NEW VERSION IS NOW OUT OBB1 && UPLOADED ON JANUARY 27 2024
 
-#### NEXT UPDATE ON JANUARY 12 2025
+#### NEXT UPDATE ON FEBRUARY 20 2025
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=MX-2.0+IS+AN+INTELLIGENT+ASSISTANT;MULTI-DEVICES+WHATSAPP+BOT;RELEASE+ON+JANUARY+12+2024;MX-+GΔMΞCØDΞR+Lead+and+Developer+🤔;Chatgpt+Assistant)](https://git.io/typing-svg)
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>

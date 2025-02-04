@@ -98,10 +98,9 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 ◈ •script
 ◈ •speedtest
 ◈ •runtime
-◈ •menu
-◈ •menu2
-◈ •menu3
-◈ •menu4
+◈ •mx
+◈ •gamecoder
+◈ •mxgamecoder
 ◈ •donate
 ◈ •groups
 ◈ •blocklist
